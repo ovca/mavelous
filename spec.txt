@@ -1,0 +1,2 @@
+mave create
+    should create a maven repo (default archetype:generate)
